@@ -1,10 +1,10 @@
 # Regression_Project
-# Predictive Modeling to Minimize RMSE
+## Predictive Modeling to Minimize RMSE
 
 ## Authors
 - Shachar Lev Tov
 - Daria Triffon
-- 
+  
 ## Overview
 This repository contains code, datasets, and other resources used in our regression analysis project. Our primary objective is to develop a predictive model that minimizes the Root Mean Square Error (RMSE) for a given set of test data.
 
